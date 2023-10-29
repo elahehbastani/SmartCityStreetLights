@@ -55,9 +55,3 @@ const firebaseConfig = {
 expo start
 ```
 2. Open the Expo app on your phone and scan the QR code, or run on an emulator.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-```
-
-Make sure to replace placeholders like `your-username`, `your-api-key`, `your-auth-domain`, `your-project-id`, `your-storage-bucket`, `your-messaging-sender-id`, `your-app-id` with actual values.
